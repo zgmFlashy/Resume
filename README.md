@@ -12,7 +12,7 @@
  - 技术博客：https://blog.csdn.net/GMingZhou
  - Github：https://github.com/zgmFlashy
  - 期望职位：Java高级程序员，应用架构师
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
+ - 期望薪资：面议
  - 期望城市：深圳
 
 ---
