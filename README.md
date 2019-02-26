@@ -138,6 +138,6 @@
   [2]: http://www.landray.com.cn/index
   [3]: http://www.landray.com.cn/lanling
   [4]: http://39.108.110.187/logo.png
-  [5]: http://39.108.110.187/dv.jpg
+  [5]: http://39.108.110.187/dv2.jpg
   [6]: http://39.108.110.187/周广明_JavaEE工程师简历.PNG
   [8]: http://39.108.110.187/周广明_JavaEE工程师简历_打印.PDF
