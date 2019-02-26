@@ -1,5 +1,3 @@
-# Resume
-
 # <center><span style="color:#5c46b3">周广明_JavaEE工程师简历</span></center>
 
 ------
