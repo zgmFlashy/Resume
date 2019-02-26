@@ -115,9 +115,9 @@
 
 # <span style="color:#5c46b3">联系方式</span>
 
-- <i class="icon-phone"></i> 手机：17620469900
-- <i class="icon-comments"></i> QQ/微信：614254327
-- <i class="icon-envelope"></i> Email：zhouguangming_sz@landray.com.cn
+- <i class="icon-phone"></i> 手机：<a href="tel://17620469900">17620469900</a>
+- <i class="icon-comments"></i> QQ/微信：<a href="tel://17620469900">614254327</a>
+- <i class="icon-envelope"></i> Email：<a href="mailto:zhouguangming_sz@landray.com.cn">zhouguangming_sz@landray.com.cn</a>
 
 ---
 
