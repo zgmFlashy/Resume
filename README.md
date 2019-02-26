@@ -3,7 +3,7 @@
 ------
 
 
-#<span style="color:#5c46b3">个人信息</span>
+# <span style="color:#5c46b3">个人信息</span>
 
  - 周广明/男/1995 
  - 本科/南昌航空大学 软件工程
