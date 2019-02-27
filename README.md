@@ -8,7 +8,7 @@
  - 周广明/男/1995 
  - 本科/南昌航空大学 软件工程
  - 专科/江西生物科技职业学院 软件技术
- - 工作年限：4年
+ - 工作年限：3年
  - 技术博客：https://blog.csdn.net/GMingZhou
  - Github：https://github.com/zgmFlashy
  - 期望职位：Java高级程序员，应用架构师
